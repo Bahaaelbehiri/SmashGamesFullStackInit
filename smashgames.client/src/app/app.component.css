@@ -1,0 +1,28 @@
+/* app.component.css */
+
+/* Set the background color for the entire app */
+:host {
+  background-color: #f9f9f9;
+  display: block; /* Ensures proper styling for the host element */
+}
+
+/* Style the main content within the app component */
+.app-content {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+/* Add some spacing and alignment for elements within the app */
+.app-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.app-description {
+  margin-bottom: 20px;
+}
+
+/* Customize other app-specific styles as needed */
+/* ... */

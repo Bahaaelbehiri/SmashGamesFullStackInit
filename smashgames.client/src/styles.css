@@ -1,0 +1,44 @@
+/* You can add global styles to this file, and also import other style files */
+/* style.css */
+
+/* Set global styles for the entire page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Add some spacing and alignment for headings */
+h1, h2, h3 {
+  margin-bottom: 20px;
+}
+
+/* Style links */
+a {
+  color: #3498db;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+  a:hover {
+    color: #ff5733;
+  }
+
+/* Create a simple button style */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #ff5733;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+  .button:hover {
+    background-color: #e64c00;
+  }
+
+/* Customize other styles as needed */
+/* ... */

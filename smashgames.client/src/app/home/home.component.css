@@ -1,0 +1,31 @@
+/* home.component.css */
+
+/* Set the background color for the home component */
+.home-container {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the main content within the home component */
+.home-content {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+/* Add some spacing and alignment for elements within the home component */
+.home-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.home-description {
+  margin-bottom: 20px;
+}
+
+/* Customize other home-specific styles as needed */
+/* ... */
